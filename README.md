@@ -19,6 +19,6 @@ LaunchAgent Configuration:
 
 Script Configuration:
 - modify savePath to point to the place where downloaded new releases of MunkiReport-PHP should be saved
-- modify designatedServerPlistURL to reflect the URL of the MunkiReport-PHP server desired, with the full path being something like https://munkireport.your.org/index.php?/install/plist <--- not a real URL
+- modify designatedServerPlistURL to reflect the URL of the MunkiReport-PHP server desired, with the full path being something like https://munkireport.your.org/index.php?/install/plist
 
 
