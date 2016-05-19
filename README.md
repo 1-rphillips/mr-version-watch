@@ -19,5 +19,5 @@ LaunchAgent Configuration:
 
 Script Configuration:
 - modify savePath to point to the place where downloaded new releases of MunkiReport-PHP should be saved
-- 
+
 
